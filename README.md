@@ -53,4 +53,4 @@ I'm passionate about building modern, responsive, and functional web application
 
 ---
 
-**Mobin | Full-Stack Web Developer**
+**Mobin | Front-End Developer → Aspiring Full-Stack Developer**
