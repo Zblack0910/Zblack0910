@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Mobin 👋
 
-<!--
-**Zblack0910/Zblack0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Full-Stack Web Developer | UI Design Enthusiast
 
-Here are some ideas to get you started:
+توسعه‌دهنده وب در مسیر حرفه‌ای شدن | علاقه‌مند به طراحی رابط کاربری و خلق ایده‌های خلاقانه
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building modern, responsive, and functional web applications, combining development skills with creative UI design and problem-solving.
+
+علاقه‌مند به توسعه وب‌اپلیکیشن‌های مدرن و کاربردی، طراحی رابط کاربری خلاقانه و تبدیل ایده‌ها به محصولات واقعی.
+
+---
+
+### About Me
+
+- Interested in Full-Stack Web Development
+- Capable of designing modern and user-friendly interfaces
+- Creative in developing UI concepts and turning ideas into practical designs
+- Focused on responsive design and user experience (UX)
+- Interested in both Front-End and Back-End development
+- Building real-world projects and continuously improving my skills
+
+### Skills & Technologies
+
+**Core Skills**
+- HTML5
+- CSS3
+
+**Currently Learning**
+- JavaScript
+- React
+- Python / Django
+- Git & GitHub
+
+**Planned**
+- Next.js
+
+**Additional Knowledge**
+- Figma — Beginner
+- Google Analytics — Beginner
+- SEO Fundamentals — Beginner
+
+### What I'm Working Towards
+
+- Building professional Full-Stack web applications
+- Creating modern and intuitive user interfaces
+- Developing real-world projects
+- Improving programming and problem-solving skills
+- Expanding my knowledge of modern web technologies
+
+### Connect With Me
+
+- GitHub: [@Zblack0910](https://github.com/Zblack0910)
+
+---
+
+**Mobin | Full-Stack Web Developer**
