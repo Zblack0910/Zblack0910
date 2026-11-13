@@ -1,8 +1,8 @@
 # Hi, I'm Mobin 👋
 
-### Aspiring Full-Stack Web Developer | UI Design Enthusiast
+### Front-End Web Developer | Aspiring Full-Stack Developer
 
-توسعه‌دهنده وب در مسیر حرفه‌ای شدن | علاقه‌مند به طراحی رابط کاربری و خلق ایده‌های خلاقانه
+توسعه‌دهنده فرانت‌اند | در مسیر تبدیل شدن به توسعه‌دهنده فول‌استک
 
 I'm passionate about building modern, responsive, and functional web applications, combining development skills with creative UI design and problem-solving.
 
