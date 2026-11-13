@@ -50,6 +50,7 @@ I'm passionate about building modern, responsive, and functional web application
 ### Connect With Me
 
 - GitHub: [@Zblack0910](https://github.com/Zblack0910)
+- Gmail: mobin.black.1380@gmail.com
 
 ---
 
